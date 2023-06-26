@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lionsol
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning VB
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on web3 project
 - 📫 send email to lionsol@hotmail.com
 
