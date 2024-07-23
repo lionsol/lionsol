@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lionsol
-- 👀 I’m interested in web3
+- 👀 I’m interested in crpyto
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on web3 project
 - 📫 send email to lionsol@hotmail.com
